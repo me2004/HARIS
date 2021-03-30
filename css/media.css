@@ -1,0 +1,1189 @@
+ /* Extra-Small devices (portrait phones, less than 576px) */
+ /* // No media query for `xs` since this is the default in Bootstrap */
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+.menu-1 ul li a {
+	margin-left: 0px;
+	text-align: left;
+	line-height: 20px;
+}
+/* user-start */
+.user-form-head {
+    margin-left: 110px !important;
+	margin-top: -40px !important;
+}
+/* usre-end */
+/* search-start */
+.search-menu {
+    margin-left: 140px !important;
+	margin-top: -40px !important;
+}
+/* search-end */
+/* about-1 start */
+.dot-1{
+	margin-left: 150px !important;
+}
+/* about-1 end */
+/* about-2 start */
+.dot-2{
+	margin-left: 150px !important;
+}
+.about-img {
+    margin-top: 70px;
+}
+.dis-btn {
+    margin-top: -10px !important;
+}
+/* about-2 end */
+/* feature start */
+.bd-1 {
+    margin-left: 35px !important;
+}
+.header-1 img {
+    margin-left: 215px !important;
+}
+.header-2 img {
+    margin-left: 215px !important;
+}
+.header-3 img {
+    margin-left: 215px !important;
+}
+.header-4 img {
+    margin-left: 215px !important;
+}
+.payment-1{
+	margin-left: 180px !important;
+}
+.payment-2{
+	margin-left: 180px !important;
+}
+.payment-3{
+	margin-left: 180px !important;
+}
+.payment-4{
+	margin-left: 180px !important;
+}
+/* feature end */
+.box-p-2 {
+    padding: 25px 15px !important;
+}
+.box-p-4 {
+    padding: 15px 15px !important;
+}
+.h-end-1 {
+    margin-bottom: 20px;
+}
+/* memorable start */
+.dot-3 {
+    margin-left: 145px !important;
+}
+.view-btn {
+    margin-left: 25% !important;
+}
+/* mamorable end */
+/* who-start */
+.dot-5 {
+    margin-left: 27%;
+}
+/* who-end */
+/* what we did start */
+.we-dot{
+	margin-left: 150px !important;
+}
+/* what we did end */
+/* last-start */
+.end-2 {
+    margin-left: 20px;
+}
+.end-3 {
+    margin-top: 80px !important;
+	margin-bottom: 103px !important;
+}
+.end-4 {
+    margin-top: 79px !important;
+	margin-bottom: 50px !important;
+}
+.psd-end{
+    padding-bottom: 0px !important;
+}
+.last-tag {
+    font-size: 17px !important;
+}
+.l-t {
+    font-size: 16px !important;
+}
+.l-w {
+    font-size: 15px !important;
+    text-align: left;
+}
+/* last-end */
+}
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+/*  */
+.menu-1 ul li a {
+    float: left;
+}
+.user-1 {
+    left: 5px !important;
+}
+.user-form-head {
+    margin-left: 15px !important;
+}
+.search-1 {
+    left: 30px !important;
+}
+.search-menu {
+    margin-left: 40px !important;
+}
+/* about-start */
+.dis-btn {
+    margin-top: -10px !important;
+}
+.dot-2 {
+    margin-left: 235px !important;
+}
+.circle-1 {
+    margin-left: 30px !important;
+}
+.circle-2 {
+    margin-left: 30px !important;
+}
+.circle-3 {
+    margin-left: 30px !important;
+}
+.circle-4 {
+    margin-left: 30px !important;
+}
+/* about-end */
+/* featured-start */
+.fe-dot {
+    margin-left: 235px !important;
+}
+.header-1 img {
+    margin-left: 300px !important;
+}
+.header-2 img {
+    margin-left: 300px !important;
+}
+.header-3 img {
+    margin-left: 300px !important;
+}
+.header-4 img {
+    margin-left: 300px !important;
+}
+.box-p-2 {
+    padding: 15px !important;
+}
+.box-p-4 {
+    padding: 15px !important;
+}
+.payment-1 {
+    margin-left: 250px !important;
+}
+.payment-2 {
+    margin-left: 250px !important;
+}
+.payment-3 {
+    margin-left: 250px !important;
+}
+.payment-4 {
+    margin-left: 250px !important;
+}
+.bd-1 {
+    margin-left: 80px !important;
+}
+.bd-2 {
+    margin-left: 80px !important;
+}
+.h-end-1 {
+    margin-bottom: 20px;
+}
+/* featured-end */
+/* memory-start */
+.dot-3 {
+    margin-left: 235px !important;
+}
+.view-btn {
+    margin-left: 30% !important;
+}
+/* memory-end */
+/* who-start */
+.dot-5 {
+    margin-left: 33% !important;
+}
+/* who-end */
+/* what-we-did-start */
+.we-dot {
+    margin-left: 245px !important;
+}
+/* what-we-did-end */
+/* event-start */
+.ev-p {
+    font-size: 16px;
+}
+/* event-end */
+/* last-start */
+.end-1 {
+    margin-top: 20px !important;
+}
+.end-2 {
+    margin-top: 250px !important;
+}
+.end-3 {
+    margin-top: 100px !important;
+}
+.end-4 {
+    margin-top: 100px !important;
+}
+.last-nv {
+    margin-left: 80px;
+}
+.l-w {
+    margin-left: 200px !important;
+}
+.share-btn {
+    margin-left: 290px !important;
+}
+}
+/* last-end */
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+.logo {
+	margin-right: -30px !important;
+}	
+.menu-1 ul li a {
+	margin-left: 15px !important;
+}
+.user-1 {
+	left: -30px !important;
+}
+.user-form-head {
+    margin-left: -165px !important;
+}
+.search-1 {
+	left: 0px !important;
+}
+.search-menu {
+    margin-left: -160px !important;
+}	
+/* about-1-start */
+.dot-1 {
+    margin-left: 355px !important;
+}
+.dis-btn {
+    margin-top: -80px !important;
+}
+/* about-1-end */
+/* about-2-start */
+.dot-2{
+    margin-left: 355px !important;
+}
+/* about-2-end */
+/* featured-start */
+.fetured-header img {
+	margin-left: 100px !important;
+	width: 725px !important;
+}
+.header-1 img {
+    margin-left: 180px !important;
+}
+.header-2 img {
+    margin-left: 180px !important;
+}
+.header-3 img {
+    margin-left: 180px !important;
+}
+.header-4 img {
+    margin-left: 180px !important;
+}
+.payment-1 {
+    margin-left: 150px !important;
+    padding: 4px 10px !important;
+}
+.payment-2 {
+    margin-left: 150px !important;
+    padding: 4px 10px !important;
+}
+.payment-3 {
+    margin-left: 150px !important;
+    padding: 4px 10px !important;
+}
+.payment-4 {
+    margin-left: 150px !important;
+    padding: 4px 10px !important;
+}
+.bd-1 {
+    margin-left: 30px !important;
+    font-size: 12px;
+}
+.bd-2 {
+    margin-left: 35px !important;
+    font-size: 12px;
+}
+.box-p-3 {
+    padding: 5px 15px !important;
+}
+.box-p-4 {
+    padding: 15px !important;
+}
+/* featured-end */
+/* memory-start */
+.dot-3 {
+    margin-left: 355px !important;
+}
+.view-btn {
+    margin-left: 37% !important;
+}
+/* memory-end */
+/* who-start */
+.who-w-1 {
+    padding: 10px 0px !important;
+}
+.who-w-2 {
+    padding: 10px 0px !important;
+}
+.who-w-3 {
+    padding: 10px 0px !important;
+}
+.who-w-4 {
+    padding: 10px 0px !important;
+}
+.who-img {
+    height: 250px;
+}
+.who-w-1-1 {
+    font-size: 17px !important;
+}
+.who-w-1-2 {
+    font-size: 17px !important;
+}
+.who-w-1-3 {
+    font-size: 17px !important;
+}
+.who-w-1-4 {
+    font-size: 17px !important;
+}
+.who-w-a {
+    font-size: 17px !important;
+}
+.md-w {
+    font-size: 14px !important;
+}
+/* who-end */
+/* what-we-did-start */
+.we-dot {
+    margin-left: 365px !important;
+}
+/* what-we-did-end */
+/* event-start */
+.ev-p {
+    width: 270px;
+}
+.ev-sh {
+    width: 260px;
+}
+.ev-a1 {
+    padding: 25px 0px !important;
+}
+/* event-end */
+/* recent-start */
+.re-w {
+    margin-top: 5px !important;
+}
+.re-dot-1 {
+    margin-left: -20px !important;
+}
+.re-dot-2 {
+    margin-left: -20px !important;
+}
+.re-dot-3 {
+    margin-left: -20px !important;
+}
+/* recent-end */
+/* last-start */
+.end-1 p {
+    font-size: 16px !important;
+    width: 250px !important;
+}
+.end-1-w {
+    font-size: 15px;
+}
+.end-4-1 p {
+    font-size: 16px !important;
+}
+.share-btn {
+    margin-left: 175px !important;
+}
+.l-w {
+    margin-top: 20px !important;
+    margin-left: 100px !important;
+    font-size: 17px !important;
+}
+/* last-end */
+}
+ /* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*  */
+}
+
+ /* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) and (max-width: 1599.98px) {
+/* head-start */
+.logo {
+    margin-left: 90px;
+}
+/* head-end */
+/* about-2-start */
+.dot-2 {
+    margin-left: 540px !important;
+}
+.circle-1 {
+    margin-left: 100px !important;
+}
+.circle-2 {
+    margin-left: 100px !important;
+}
+.circle-3 {
+    margin-left: 100px !important;
+}
+.circle-4 {
+    margin-left: 100px !important;
+}
+/* about-2-end */
+/* feature-start */
+.fetured-header img {
+    width: 1040px !important;
+}
+.box-p-1 {
+    padding: 15px !important;
+    font-size: 20px !important;
+}
+.box-p-2 {
+    padding: 30px 15px !important;
+    font-size: 20px !important;
+}
+.box-p-3 {
+    padding: 0px 15px !important;
+    font-size: 20px !important;
+}
+.box-p-4 {
+    padding: 14px 15px !important;
+    font-size: 20px !important;
+}
+.box-p{
+    font-size: 17px;
+}
+.payment-1{
+	margin-left: 235px !important;
+}
+.payment-2{
+	margin-left: 235px !important;
+}
+.payment-3{
+	margin-left: 235px !important;
+}
+.payment-4{
+	margin-left: 235px !important;
+}
+.bd-1{
+	margin-left: 65px !important;
+}
+.bd-2 {
+    margin-left: 70px !important;
+}
+/* feature-end */
+/* memory-start */
+.dot-3 {
+    margin-left: 535px !important;
+}
+/* memory-end */
+/* who-start */
+.who-w-1 h4 {
+    font-size: 30px;
+}
+.who-w-2 h4 {
+    font-size: 30px;
+}
+.who-w-3 h4 {
+    font-size: 30px;
+}
+.who-w-4 h4 {
+    font-size: 30px;
+}
+.sm-w {
+    font-size: 20px;
+}
+.md-w {
+    font-size: 19px !important;
+}
+/* who-end */
+/* what-did-we-start */
+.we-dot {
+    margin-left: 540px !important;
+}
+/* what-did-we-end */
+/* event-start */
+.ev-sh{
+	font-size: 27px;
+}
+.ev-s {
+    font-size: 19px;
+}
+.ev-ic {
+    font-size: 19px;
+}
+.ev-p {
+    font-size: 19px;
+}
+.ev-a {
+    font-size: 20px;
+}
+/* event-end */
+/* recent-start */
+.re-sm1 {
+    font-size: 18px !important;
+}
+.active h4 {
+	font-size: 30px;
+}
+.back h4 {
+    font-size: 30px;
+}
+.kid h4 {
+	font-size: 30px;
+}
+.re-sm {
+    font-size: 19px !important;
+}
+/* recent-end */
+/* psd-start */
+.end-1 p {
+    font-size: 19px !important;
+}
+.end-1-w {
+    font-size: 19px;
+}
+.end-2-1 h4 {
+    font-size: 30px;
+}
+.end-3-1 h4 {
+    font-size: 30px;
+}
+.end-4-1 h4 {
+    font-size: 30px;
+}
+.end-3-2-w {
+    font-size: 17px !important;
+}
+.end-4-1 p {
+    font-size: 17px !important;
+}
+.share-box {
+    padding: 10px;
+}
+.share-btn {
+    margin-left: 260px;
+    font-size: 20px;
+}
+.last-icon {
+    font-size: 25px;
+}
+/* psd-end */
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* @media (min-width: 0px) and (max-width: 575.98px) {
+
+
+.menu-1 ul li a {
+    float: left;
+}
+.user-1 {
+    left: 5px !important;
+}
+.user-form-head {
+    margin-left: 15px !important;
+}
+.search-1 {
+    left: 35px !important
+}
+.search-menu {
+    margin-left: 45px !important;
+}
+
+
+.dot-1 {
+    margin-left: 95px !important;
+}
+.dis-btn {
+    margin-top: 15px !important;
+    margin-left: 16%;
+}
+.dot-2 {
+    margin-left: 95px !important;
+}
+.circle-1 {
+    margin-left: 150px !important;
+}
+.circle-2 {
+    margin-left: 150px !important;
+}
+.circle-3 {
+    margin-left: 150px !important;
+}
+.circle-4 {
+    margin-left: 150px !important;
+}
+.dot-3 {
+    margin-left: 85px !important;
+}
+.fe-dot {
+    margin-left: 110px !important;
+}
+.header-1 img {
+    margin-left: 360px !important;
+}
+.header-2 img {
+    margin-left: 360px !important;
+}
+.header-3 img {
+    margin-left: 360px !important;
+}
+.header-4 img {
+    margin-left: 360px !important;
+}
+.payment-1 {
+    margin-top: -95px !important;
+    margin-left: 325px !important;
+}
+.payment-2 {
+    margin-top: -95px !important;
+    margin-left: 325px !important;
+}
+.payment-3 {
+    margin-top: -95px !important;
+    margin-left: 325px !important;
+}
+.payment-4 {
+    margin-top: -95px !important;
+    margin-left: 325px !important;
+}
+.bd-1 {
+    margin-left: 115px !important;
+}
+.bd-2 {
+    margin-left: 115px !important;
+}
+
+.memory-pic-1 {
+    margin-left: 70px;
+}
+.memory-pic-2 {
+    margin-left: 70px;
+}
+.memory-pic-3 {
+    margin-left: 70px;
+}
+.memory-pic-4 {
+    margin-left: 70px;
+}
+.memory-pic-5 {
+    margin-left: 70px;
+}
+.memory-pic-6 {
+    margin-left: 70px;
+}
+.memory-pic-7 {
+    margin-left: 70px;
+}
+.memory-pic-8 {
+    margin-left: 70px;
+}
+.view-btn {
+    margin-left: 20% !important;
+}
+
+.dot-5 {
+    margin-left: 22% !important;
+}
+.who-img {
+    margin-left: 80px !important;
+}
+.who-w-1 h4 {
+    text-align: center;
+}
+.who-w-2 h4 {
+    text-align: center;
+}
+.who-w-3 h4 {
+    text-align: center;
+}
+.who-w-4 h4 {
+    text-align: center;
+}
+.sm-w {
+    text-align: center;
+}
+.md-w {
+    text-align: center;
+}
+.w-icon-1 {
+    text-align: center;
+}
+
+
+
+
+
+
+.we-dot {
+    margin-left: 95px !important;
+}
+.w-c-r {
+    text-align: center;
+    margin-left: -40px;
+}
+.c-img {
+    margin-left: -35px !important;
+}
+.c-w-1 {
+    margin-left: 90px !important;
+}
+.c-w-2 {
+    margin-left: 100px !important;
+}
+
+
+
+
+.ev-h {
+    text-align: center;
+}
+.event-dot {
+    margin-left: 100px;
+}
+
+.re-h {
+    text-align: center;
+}
+.recent-dot {
+    margin-left: 100px;
+}
+.re-img {
+    margin-left: 55px;
+}
+.active {
+    text-align: center;
+}
+.back {
+    text-align: center;
+}
+.kid {
+    text-align: center;
+}
+
+} */
